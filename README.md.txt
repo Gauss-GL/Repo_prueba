@@ -1,1 +1,0 @@
-ESte tendría que ser un readme, aunque, creo que no va a funcionar, lo veo como txt
